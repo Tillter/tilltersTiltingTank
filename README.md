@@ -1,8 +1,2 @@
 # tilltersTiltingTank
-Tillter's webpage
-testing pull requests
-testing pull requests from sublime text v2
-
-asdfsdf
-
-sdfsdfsdfsdawe
+Tillter's webpage, this txt file is being used for me to figure out how git commits,pulls,fetches, and pushes work.
