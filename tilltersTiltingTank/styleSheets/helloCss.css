@@ -1,9 +1,24 @@
 body
 {
-	color: red;
+	color: black;
+	background-color: gray;
+	margin: 1em;
+	text-align: center;
 }
 h1
 {
 	color: black;
+	border-style: solid;
 }
-
+nav
+{
+	color: black;
+	font-family: sans-serif;
+	text-align: left;
+	border-style:double;
+	background-color: rgb(191, 191, 191);
+}
+header
+{
+	height:200px;
+}
