@@ -17,8 +17,11 @@ nav
 	text-align: left;
 	border-style:double;
 	background-color: rgb(191, 191, 191);
+	width: 100px;
+	height: 400px;
 }
 header
 {
 	height:200px;
+	text-align: left;
 }
