@@ -1,0 +1,25 @@
+body
+{
+	color: black;
+	background-color: gray;
+	margin: 1em;
+	text-align: center;
+}
+h1
+{
+	color: black;
+	border-style: solid;
+	width: 600px;
+	
+
+}
+nav
+{
+	color: black;
+	font-family: sans-serif;
+	text-align: left;
+	border-style:double;
+	background-color: rgb(191, 191, 191);
+	width: 100px;
+	height: 400px;
+}
