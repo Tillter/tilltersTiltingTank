@@ -5,12 +5,22 @@ body
 	margin: 1em;
 	text-align: center;
 }
+img
+{
+	position: absolute;
+	top: 0.5em;
+	left: 1em;
+	width: 5%;
+	height: 8%;
+}
 h1
 {
 	color: black;
 	border-style: solid;
-	width: 600px;
-
+	width: 45%;
+	text-align: center;
+	position: relative;
+	left: 11em;
 }
 nav
 {
@@ -19,8 +29,9 @@ nav
 	text-align: left;
 	border-style:double;
 	background-color: rgb(191, 191, 191);
-	width: 100px;
+	width: 7.5%;
 	height: 400px;
+	position: relative;
 }
 header
 {
