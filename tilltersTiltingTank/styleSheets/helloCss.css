@@ -20,7 +20,7 @@ h1
 	width: 45%;
 	text-align: center;
 	position: relative;
-	left: 11em;
+	left: 11.5em;
 }
 nav
 {
@@ -37,4 +37,12 @@ header
 {
 	height:200px;
 	text-align: left;
+}
+#f
+{
+	font-size: 75%;
+}
+a:hover
+{
+	font-style: italic;
 }
